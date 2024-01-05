@@ -1,2 +1,2 @@
-# ML-Project
-It's for ML
+# Taxi Trip Fare Prediction - linear regression
+
